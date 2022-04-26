@@ -1,0 +1,16 @@
+{
+  "name": "code-castle",
+  "version": "1.0.0",
+  "description": "A simple test get user info",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "codecastle",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.0",
+    "user": "0.0.0"
+  }
+}
