@@ -1,6 +1,6 @@
 {
   "name": "code-castle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple test get user info",
   "main": "src/index.js",
   "scripts": {
@@ -12,5 +12,14 @@
   "dependencies": {
     "axios": "^0.27.0",
     "user": "0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-castle-01/code-castle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code-castle-01/code-castle/issues"
+  },
+  "homepage": "https://github.com/code-castle-01/code-castle#readme"
 }
